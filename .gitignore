@@ -5,3 +5,4 @@ __pycache__
 scripts_rci/results/
 # Ada Library Information
 *.ali
+scripts_rci/data/
